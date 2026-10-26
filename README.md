@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ermal Zeqo 👋</h1>
+<h1 align="center">Hi, I'm Ermal Zeqo 🚀</h1>
 
 <p align="center">
   <strong>Cybersecurity · DevOps · Systems & Networks · Software Development</strong>
